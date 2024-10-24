@@ -30,22 +30,22 @@
 <div>
   <h1 align="center">📜 Certifications</h1>
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png"/>](#)
-  <p align="center" style="font-size: 1.1em;">
+  [<img align="left" width="94px" alt="Oracle Academy" src="https://brasilpaisdigital.com.br/wp-content/uploads/2022/09/oracle_academy.png"/>](#)
+  <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Oracle Academy <br />
     <strong>🎓 Certification:</strong> Database Design
   </p>
   <br clear="left"/><br />
 
   [<img align="left" width="94px" alt="Rocketseat" src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4"/>](#)
-  <p align="center" style="font-size: 1.1em;">
+  <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Rocketseat <br />
     <strong>🎓 Certification:</strong> NLW Journey - React.js
   </p>
   <br clear="left"/><br />
 
   [<img align="left" width="94px" alt="IBSEC" src="https://content.app-us1.com/gQoMa/2023/12/21/89284f77-fbd2-4daf-8846-12dce50824ba.png"/>](#)
-  <p align="center" style="font-size: 1.1em;">
+  <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> IBSEC (Instituto Brasileiro de Cibersegurança) <br />
     <strong>🎓 Certification:</strong> Fundamentos em Informática
   </p>
