@@ -32,7 +32,7 @@
 
   [<img align="left" width="94px" alt="Oracle Academy" src="https://brasilpaisdigital.com.br/wp-content/uploads/2022/09/oracle_academy.png"/>](#)
   <p align="left" style="font-size: 1.1em;">
-    <strong>🏛 Institution:</strong> Oracle Academy <br />
+    <strong>🏛 Institution:</strong> Oracle Academy and Uni-FACEF <br />
     <strong>🎓 Certification:</strong> Database Design
   </p>
   <br clear="left"/><br />
