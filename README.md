@@ -61,7 +61,7 @@
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin: 10px 0;">📚 <strong>English</strong></li>
     <li style="margin: 10px 0;">💻 <strong>Front-end Development</strong></li>
-    <li style="margin: 10px 0;">🤖 <strong>Generative AI (FAT & Google Foundation)</strong></li>
+    <li style="margin: 10px 0;">🤖 <strong>Generative AI (Google & FAT Foundation)</strong></li>
     <li style="margin: 10px 0;">🚀 <strong>Best Practices in Software Engineering and Clean Code</strong></li>
   </ul>
 </div>
