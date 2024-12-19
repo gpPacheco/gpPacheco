@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Gabriel👋 </h1>
-<h3 align="center"> I'm a Software Engineering student and Front-end developer! </h3>
+<h3 align="center"> I'm a Software Engineering and Front-end developer! </h3>
 
 <div align="center">
   <h1>📫 Contact me</h1>
@@ -34,6 +34,13 @@
   [<img align="left" width="94px" alt="Oracle Academy" src="https://brasilpaisdigital.com.br/wp-content/uploads/2022/09/oracle_academy.png"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Oracle Academy and Uni-FACEF <br />
+    <strong>🎓 Certification:</strong> Database Design
+  </p>
+  <br clear="left"/><br />
+
+  [<img align="left" width="94px" alt="Oracle Academy" src="https://media.licdn.com/dms/image/v2/D4D0BAQE1wCOzZvcerQ/company-logo_200_200/company-logo_200_200/0/1709654249397/fundacaofat_logo?e=1742428800&v=beta&t=UeNa4kkSoTgOCY7-_isY1JhGAuUMTD1s-3YD5Fnaz4U"/>](#)
+  <p align="left" style="font-size: 1.1em;">
+    <strong>🏛 Institution:</strong> Google Cloud | FAT <br />
     <strong>🎓 Certification:</strong> Database Design
   </p>
   <br clear="left"/><br />
