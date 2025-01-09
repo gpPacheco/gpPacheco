@@ -54,8 +54,8 @@
 
   [<img align="left" width="94px" alt="IBSEC" src="https://content.app-us1.com/gQoMa/2023/12/21/89284f77-fbd2-4daf-8846-12dce50824ba.png"/>](#)
   <p align="left" style="font-size: 1.1em;">
-    <strong>🏛 Institution:</strong> IBSEC (Instituto Brasileiro de Cibersegurança) <br />
-    <strong>🎓 Certification:</strong> Fundamentos em Informática
+    <strong>🏛 Institution:</strong> IBSEC (Brazilian Institute of Cybersecurity) <br />
+    <strong>🎓 Certification:</strong> Fundamentals in computer
   </p>
   <br clear="left"/><br />
 
