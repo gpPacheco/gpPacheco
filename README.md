@@ -31,10 +31,10 @@
 <div>
   <h1 align="center">📜 Certifications</h1>
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="https://brasilpaisdigital.com.br/wp-content/uploads/2022/09/oracle_academy.png"/>](#)
+  [<img align="left" width="94px" alt="Oracle Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
   <p align="left" style="font-size: 1.1em;">
-    <strong>🏛 Institution:</strong> Oracle Academy and Uni-FACEF <br />
-    <strong>🎓 Certification:</strong> Database Design
+    <strong>🏛 Institution:</strong> Google Cloud Skill Boost <br />
+    <strong>🎓 Skill Badge:</strong> Prompt Design in Vertex AI
   </p>
   <br clear="left"/><br />
 
