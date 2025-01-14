@@ -30,22 +30,29 @@
 ---
 <div>
   <h1 align="center">📜 Certifications</h1>
+
+  [<img align="left" width="94px" alt="CCBEU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzxm1bMIcu75RSiJ_kZPCDSQweQh514wEnQ&s"/>](#)
+  <p align="left" style="font-size: 1.1em;">
+    <strong>🏛 Institution:</strong> CCBEU <br />
+    <strong>🎓 Skill Badge:</strong> English Course 
+  </p>
+  <br clear="left"/><br />
   
-   [<img align="left" width="94px" alt="Oracle Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
+   [<img align="left" width="94px" alt="Google CLoud" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Google Cloud Skill Boost <br />
     <strong>🎓 Skill Badge:</strong> Develop GenAI Apps with Gemini and Streamlit 
   </p>
   <br clear="left"/><br />
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
+  [<img align="left" width="94px" alt="Google Cloud" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Google Cloud Skill Boost <br />
     <strong>🎓 Skill Badge:</strong> Prompt Design in Vertex AI
   </p>
   <br clear="left"/><br />
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="https://media.licdn.com/dms/image/v2/D4D0BAQE1wCOzZvcerQ/company-logo_200_200/company-logo_200_200/0/1709654249397/fundacaofat_logo?e=1742428800&v=beta&t=UeNa4kkSoTgOCY7-_isY1JhGAuUMTD1s-3YD5Fnaz4U"/>](#)
+  [<img align="left" width="94px" alt="Google Cloud | FAT" src="https://media.licdn.com/dms/image/v2/D4D0BAQE1wCOzZvcerQ/company-logo_200_200/company-logo_200_200/0/1709654249397/fundacaofat_logo?e=1742428800&v=beta&t=UeNa4kkSoTgOCY7-_isY1JhGAuUMTD1s-3YD5Fnaz4U"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Google Cloud | FAT <br />
     <strong>🎓 Certification:</strong> Database Design
