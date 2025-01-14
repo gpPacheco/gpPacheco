@@ -30,6 +30,13 @@
 ---
 <div>
   <h1 align="center">📜 Certifications</h1>
+  
+   [<img align="left" width="94px" alt="Oracle Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
+  <p align="left" style="font-size: 1.1em;">
+    <strong>🏛 Institution:</strong> Google Cloud Skill Boost <br />
+    <strong>🎓 Skill Badge:</strong> Develop GenAI Apps with Gemini and Streamlit 
+  </p>
+  <br clear="left"/><br />
 
   [<img align="left" width="94px" alt="Oracle Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj"/>](#)
   <p align="left" style="font-size: 1.1em;">
