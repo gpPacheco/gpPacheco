@@ -1,5 +1,4 @@
-<h1 align="center"> I'm Gabriel👋 </h1>
-<h3 align="center"> I'm a Software Engineering and Front-end developer! </h3>
+<h1 align="center"> I'm a Software Engineering and Front-end developer! </h1>
 
 <div align="center">
   <h1>📫 Contact me</h1>
@@ -34,7 +33,21 @@
   [<img align="left" width="94px" alt="CCBEU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzxm1bMIcu75RSiJ_kZPCDSQweQh514wEnQ&s"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> CCBEU <br />
-    <strong>🎓 Skill Badge:</strong> English Course 
+    <strong>🎓 Skill Badge:</strong> Advanced English Course 
+  </p>
+  <br clear="left"/><br />
+
+  [<img align="left" width="94px" alt="Oracle academy" src="https://logodix.com/logo/626835.png"/>](#)
+  <p align="left" style="font-size: 1.1em;">
+    <strong>🏛 Institution:</strong> Oracle Academy <br />
+    <strong>🎓 Skill Badge:</strong> Programming with SQL 
+  </p>
+  <br clear="left"/><br />
+
+  [<img align="left" width="94px" alt="Oracle academy" src="https://logodix.com/logo/626835.png"/>](#)
+  <p align="left" style="font-size: 1.1em;">
+    <strong>🏛 Institution:</strong> Oracle Academy <br />
+    <strong>🎓 Skill Badge:</strong> Database Design 
   </p>
   <br clear="left"/><br />
   
@@ -73,18 +86,6 @@
   </p>
   <br clear="left"/><br />
 
-</div>
-
----
-
-<div align="center">
-  <h1>🌱 What I'm Currently Learning</h1>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin: 10px 0;">📚 <strong>English</strong></li>
-    <li style="margin: 10px 0;">💻 <strong>Back-end Development database modeling</strong></li>
-    <li style="margin: 10px 0;">🤖 <strong>Generative AI (Google & FAT Foundation)</strong></li>
-    <li style="margin: 10px 0;">🚀 <strong>Best Practices in Software Engineering and Clean Code</strong></li>
-  </ul>
 </div>
 
 ---
