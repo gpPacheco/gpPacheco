@@ -37,14 +37,14 @@
   </p>
   <br clear="left"/><br />
 
-  [<img align="left" width="94px" alt="Oracle academy" src="https://logodix.com/logo/626835.png"/>](#)
+  [<img align="left" width="94px" alt="Oracle academy" src="https://images.icon-icons.com/2699/PNG/512/oracle_logo_icon_168918.png"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Oracle Academy <br />
     <strong>🎓 Skill Badge:</strong> Programming with SQL 
   </p>
   <br clear="left"/><br />
 
-  [<img align="left" width="94px" alt="Oracle academy" src="https://logodix.com/logo/626835.png"/>](#)
+  [<img align="left" width="94px" alt="Oracle academy" src="https://images.icon-icons.com/2699/PNG/512/oracle_logo_icon_168918.png"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Oracle Academy <br />
     <strong>🎓 Skill Badge:</strong> Database Design 
