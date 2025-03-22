@@ -65,7 +65,7 @@
   </p>
   <br clear="left"/><br />
 
-  [<img align="left" width="94px" alt="Google Cloud | FAT" src="https://media.licdn.com/dms/image/v2/D4D0BAQE1wCOzZvcerQ/company-logo_200_200/company-logo_200_200/0/1709654249397/fundacaofat_logo?e=1742428800&v=beta&t=UeNa4kkSoTgOCY7-_isY1JhGAuUMTD1s-3YD5Fnaz4U"/>](#)
+  [<img align="left" width="94px" alt="Google Cloud | FAT" src="https://media.licdn.com/dms/image/v2/D4D0BAQE1wCOzZvcerQ/company-logo_200_200/company-logo_200_200/0/1709654249397/fundacaofat_logo?e=2147483647&v=beta&t=WgdeAtpNTKOG1QMmvkbVOteW7B6yMAzTdx52UmL9pmo"/>](#)
   <p align="left" style="font-size: 1.1em;">
     <strong>🏛 Institution:</strong> Google Cloud | FAT <br />
     <strong>🎓 Certification:</strong> Database Design
