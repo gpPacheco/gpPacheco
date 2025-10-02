@@ -1,4 +1,4 @@
-<h1 align="center"> I'm a Software Engineering and Front-end developer! </h1>
+<h1 align="center"> I'm a Software Engineering! </h1>
 
 <div align="center">
   <h1>📫 Contact me</h1>
